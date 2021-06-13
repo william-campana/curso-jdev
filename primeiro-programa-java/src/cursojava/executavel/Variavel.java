@@ -1,6 +1,6 @@
 package cursojava.executavel;
 
-public class PrimeiraClasseJava {
+public class Variavel {
 	
 	public static void main (String[] args) {
 		
