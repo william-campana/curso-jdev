@@ -9,6 +9,6 @@ public class PrimeiraClasseJava {
 		int _int = 1000;
 		long _long = 1000L;
 		boolean _boolean = true;
-		String _string = "Qualquer String"
+		String _string = "Qualquer String";
 	}
 }
